@@ -1,6 +1,7 @@
 # TaskTracker
 simple task tracker
 
+Project created as solution for challenge [task-tracker](https://roadmap.sh/projects/task-tracker)
 ## installation
 ```sh
 git clone https://github.com/ThisIsHyum/TaskTracker/
