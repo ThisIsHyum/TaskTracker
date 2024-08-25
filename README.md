@@ -17,25 +17,25 @@ go build
  
 ```
 
-show list
+- show list
 ```sh
 ./cli list
 ./cli list --status in-progress # show tasks only with status in-progress
 ```
 
-delete task
+- delete task
 ```sh
 ./cli delete --id 1 # delete task with id 0
  
 ```
 
-update task
+- update task
 ```sh
 ./cli update --id 1 -d "new description" # update description of task with id 1
  
 ```
 
-mark task
+- mark task
 ```sh
 ./cli mark --id 1 --status in-progress # new status of task with id 1
  
